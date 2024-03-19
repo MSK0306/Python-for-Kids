@@ -14,3 +14,5 @@ We talked about precedence and variables.
 
 ## Lecture 2
 
+We talked about placeholders and variables. Three main types of variables (integer, string, boolean) in Python are introduced.
+
