@@ -16,3 +16,13 @@ We talked about precedence and variables.
 
 We talked about placeholders and variables. Three main types of variables (integer, string, boolean) in Python are introduced.
 
+## Lecture 3
+
+We talked about for loop and if conditional statments.
+
+Examples from the following link were used: [Python for Kids – Fun Tutorial to Learn Python Programming](https://www.geeksforgeeks.org/python-for-kids/)
+
+## Lecture 4
+
+Introduction to modules through turtle module of Python. Sixth video of the [Hello! Programming with Python for Kids and Beginners](https://www.youtube.com/watch?v=AODtS3S1ffE&list=PL7wwY6Ln64K4Ev1KQMNwudrh4YqtCTHf3) was practiced.
+
