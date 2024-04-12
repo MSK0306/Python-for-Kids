@@ -26,3 +26,6 @@ Examples from the following link were used: [Python for Kids – Fun Tutorial to
 
 Introduction to modules through turtle module of Python. Sixth video of the [Hello! Programming with Python for Kids and Beginners](https://www.youtube.com/watch?v=AODtS3S1ffE&list=PL7wwY6Ln64K4Ev1KQMNwudrh4YqtCTHf3) was practiced.
 
+## Lecture 5
+
+The loop structure is brought together with the turtle module to draw polygons. Furthermore, nested loop structures are introduced by drawing clover shapes.
