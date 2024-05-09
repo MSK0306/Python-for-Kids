@@ -1,0 +1,52 @@
+import turtle
+
+
+
+def triangle(len):
+    l = turtle.Pen()
+
+    l.forward(len/2)
+    l.left(120)
+    l.forward(len)
+    l.left(120)
+    l.forward(len)
+    l.left(120)
+    l.forward(len/2)
+
+def square(len):
+    l = turtle.Pen()
+
+    l.forward(len/2)
+    l.left(90)
+    l.forward(len)
+    l.left(90)
+    l.forward(len)
+    l.left(90)
+    l.forward(len)
+    l.left(90)
+    l.forward(len/2)
+
+def pentagon(len):
+    l = turtle.Pen()
+    l.forward(len/2)
+    l.left(72)
+    l.forward(len)
+    l.left(72)
+    l.forward(len)
+    l.left(72)
+    l.forward(len)
+    l.left(72)
+    l.forward(len)
+    l.left(72)
+    l.forward(len/2)
+side=int(input('Enter the number of the sides'))
+length=int(input('Enter the length of the sides'))
+
+if side == 3:
+    triangle(length)
+elif side == 4:
+    square(length)
+elif side == 5:
+    pentagon(length)
+else:
+    print('OOOOOOHHHHHH IT`S A TO BIG NUMBER|:I')
