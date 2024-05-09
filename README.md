@@ -32,4 +32,8 @@ The loop structure is brought together with the turtle module to draw polygons. 
 
 ## Lecture 6
 
-Various functions to draw certain shape using turtle module have been created. We switched to using PyCharm IDE.
+Various functions to draw certain shapes using turtle module have been created. We switched to using PyCharm IDE.
+
+## Lecture 7
+
+We have written a complete program to draw triangle, square, or a pentagon with a given side length.
