@@ -29,3 +29,7 @@ Introduction to modules through turtle module of Python. Sixth video of the [Hel
 ## Lecture 5
 
 The loop structure is brought together with the turtle module to draw polygons. Furthermore, nested loop structures are introduced by drawing clover shapes.
+
+## Lecture 6
+
+Various functions to draw certain shape using turtle module have been created. We switched to using PyCharm IDE.
