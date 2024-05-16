@@ -37,3 +37,7 @@ Various functions to draw certain shapes using turtle module have been created. 
 ## Lecture 7
 
 We have written a complete program to draw triangle, square, or a pentagon with a given side length.
+
+## Lecture 8
+
+We have made previous program significantly smaller by for loop structure.
