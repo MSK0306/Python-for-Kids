@@ -1,0 +1,15 @@
+import turtle
+
+def for_loop(len,side): 
+  l = turtle.pen() 
+  l.forward(len/2) 
+  for i in range (side-1): 
+    l.left(360/side) 
+    l.forward(len) 
+  l.left(360/side) 
+  l.forward(len / 2)
+
+sides=int(input('enter the number of the sides')) 
+length=int(input('enter the length of the sides')) 
+
+for_loop(length,sides)
