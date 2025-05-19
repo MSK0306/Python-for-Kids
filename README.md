@@ -41,3 +41,5 @@ We have written a complete program to draw triangle, square, or a pentagon with 
 ## Lecture 8
 
 We have made previous program significantly smaller by for loop structure.
+
+Check it out: https://news.ycombinator.com/item?id=44026799
